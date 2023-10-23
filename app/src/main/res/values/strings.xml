@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Recetas</string>
+    <string name="store_app">Crear receta</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hit_name">Nombre de la receta</string>
+    <string name="helper_required">Requerido</string>
+    <string name="hint_phone">Decripción</string>
+    <string name="edit_store_title_add">Crear receta</string>
+    <string name="menu_save">Save</string>
+    <string name="edit_store_message_save_success">Receta agregada correctamente.</string>
+    <string name="arg_id">key_id</string>
+    <string name="edit_store_message_update_success">Receta actualizada correctamente.</string>
+    <string name="edit_store_message_valid">Revise los campos requeridos.</string>
+</resources>
